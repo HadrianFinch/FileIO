@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.rc": "ini",
+        "*.build": "dart",
+        "manifest": "xml",
+        "*.bml": "xml",
+        "buildinfo": "plaintext",
+        "iosfwd": "cpp"
+    }
+}
